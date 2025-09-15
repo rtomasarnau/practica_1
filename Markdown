@@ -1,1 +1,11 @@
-
+#### Creamos un archivo de Markdown para practicar
+##### Tenemos una lista de contenidos del archivo
+* Imagen 1
+* Imagen 2
+* Imagen 3
+* Imagen 4
+Este archivo incluye texto con  
+un salto de carro
+Además, incluimos algunas citas famosas dignas de recordar
+> Esto ha sido una cita
+<!- Todo esto se puede comentar de forma aclaratoria para mejorar su comprensión -->
