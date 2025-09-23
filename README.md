@@ -1,8 +1,8 @@
 # practica_1
 practica_1_markdown
 ## Esto es un ecabezado h2 para el ejercicio
-**Texto en negrita a imprimir** o __ __
-*texto en cursiva a imprimir * o _ _
+**Texto en negrita a imprimir**
+*texto en cursiva a imprimir *
 Quiero resaltar el comando `ls -la`
 ```python
 celsius = float(input('Introduce una temperatura en grados Celsius: '))
@@ -41,8 +41,10 @@ Enlaces a la página web del [gmail][1] y a [GitHub][2].
 | Ford | Fiesta | GVX6578 |
 | Ford | Mondeo | GVX6576 |
 | Ford | Cupra | GVX6575 |
+
 Tras este texto    
 hemos forzado un salto de línea.
+
 alea jacta est
 > Es una cita famosa
 Texto a presentar.
