@@ -36,11 +36,11 @@ Enlaces a la página web del [gmail][1] y a [GitHub][2].
   2.1 Item 2.1  
 3. Item 3  
 4. Item 4
-| Marca 1 | Modelo 2 | Matrícula 3
-| --- | --- | --- | ---
-| Ford | Fiesta | GVX6578
-| Ford | Mondeo | GVX6576
-| Ford | Cupra | GVX6575
+| Marca 1 | Modelo 2 | Matrícula 3 |
+| --- | --- | --- | --- |
+| Ford | Fiesta | GVX6578 |
+| Ford | Mondeo | GVX6576 |
+| Ford | Cupra | GVX6575 |
 Tras este texto    
 hemos forzado un salto de línea.
 alea jacta est
